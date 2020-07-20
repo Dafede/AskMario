@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <title>Ask Mario</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.3/examples/cover/">
+
+    <!-- Bootstrap core CSS -->
+<link href="css/main.css" rel="stylesheet">
+
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+    <!-- Custom styles for this template -->
+    <link href="css/cover.css" rel="stylesheet">
+	<link href="css/custom.css" rel="stylesheet">
+  </head>
+  <body class="text-center">
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+  <header class="masthead mb-auto">
+    <div class="inner">
+      <h3 class="masthead-brand">Cover</h3>
+      <nav class="nav nav-masthead justify-content-center">
+        <a class="nav-link active" href="#">Home</a>
+      </nav>
+    </div>
+  </header>
+
+  <main role="main" class="inner cover">
+    <p class="lead">
+	<input type="text" id="question-input" class="form-control form-control-i" placeholder="Ask Mario Anithing" value="" required="">
+	</p>
+    <p class="lead">
+      <a href="#" class="btn btn-lg btn-secondary" id="button-ask">Ask Mario!</a>
+    </p>
+	<div id="mario-answer-div">
+		<img src="images/mario2.png">
+		<div class="bubble">
+			<div class="box3 sb14">
+				<p id="answer-mario"></p>
+			</div>
+		</div>
+	</div>
+  </main>
+
+  <footer class="mastfoot mt-auto">
+    <div class="inner">
+      <p>Mario Heavy Industries</p>
+    </div>
+  </footer>
+</div>
+<script src="js/jquery.min.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

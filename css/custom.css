@@ -1,0 +1,59 @@
+
+#mario-answer-div{
+	width: 100%;
+	margin-top: 5em;
+}
+
+#mario-answer-div img{
+float: left;
+}
+
+.cover-container {
+	width: 100% !important;
+	margin-left: 5em !important;
+	margin-right: 5em !important;
+	max-width: 100%;
+}
+
+.box3 {
+  width:45em;
+  height: 12.5em;
+  margin: 50px auto;
+  border-radius: 15px;
+  background: #eee;
+  color: #222;
+  padding: 20px;
+  text-align: center;
+  position: relative;
+  
+}
+.box3 p{
+	font-size:1.25em;
+	text-align: left;
+	position: relative;
+	left: -5em;
+	top: -0.75em;
+}
+
+.sb14:before {
+  content: "";
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  border-left: 15px solid transparent;
+  border-right: 15px solid #eee;
+  border-top: 15px solid #eee;
+  border-bottom: 15px solid transparent;
+  left: -16px;
+  top: 0px;
+}
+.bubble{
+	position: relative;
+	width: 5em;
+	top: 5em;
+	left: 15em;
+}
+
+.form-control-i{
+	font-size: 1.5em;
+}
