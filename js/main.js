@@ -24,6 +24,14 @@ var basic = [
 "SISTEMA UNIX? LO CONOZCO",
 "me gustan los dinosaurios :3",
 "y tu cara es un mojon xdxdxdxd",
+"ENTONCES ES Q ERES MANCO",
+"es un poco dificil con seres humanos",
+"tengo una casa en un pueblo de albacete que pertenece directamente a una linea de sangre",
+"este viernes me comes el rabo",
+"xdxdxdxdxdxdxdxdxdxdxdxdxdxdxdxd",
+"no me voy a disfrutar un buffet",
+"bueno pues lo siento mucho por tu horario de mierda",
+"JODER Q VOY AHORA MISMO A AYUDARTE EH",
 ];
 
 
